@@ -1,4 +1,5 @@
 # paradoxTest
+https://symphonious-churros-069bd0.netlify.app/
 
 This template should help get you started developing with Vue 3 in Vite.
 
